@@ -500,7 +500,9 @@ p a:hover {
   border: #0BA39C solid;
   border-radius: 5px;
 }
-
+img{
+border-radius: 5px;
+}
 @media only screen and (max-width: 990px) {
   #body > ul {
     margin: 0;
